@@ -78,7 +78,7 @@ _In the Git System or in Visual Studio Code, you can put the application to run 
 
 ### And the coding style tests ⌨️
 
-**Banner**
+![banner](https://github.com/MerlonProgramming/Improved-Flutter-Counter/blob/main/untitled.gif)
 
 ## Deployment 📦
 
