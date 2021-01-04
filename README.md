@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://github.com/MerlonProgramming/Improved-Flutter-Counter/blob/main/screenshot.png)
 
 # Improved Flutter Counter
 
